@@ -43,7 +43,7 @@ Click **Download** to get a `.zip` of the app. Unzip it and open `index.html` in
 ```
 wetter/
 ├── index.html
-├── files/
+├── assets/
 │   ├── css/
 │   │   └── styles.css
 │   ├── img/

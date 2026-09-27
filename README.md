@@ -18,7 +18,8 @@ Wetter is a single-page weather app: type in a city, and it pulls live condition
 ## Screenshots
 
 <p align="center">
-  <img src="screenshots/main.png" alt="Wetter App main screen" width="500">
+  <img src="assets/screenshots/main.png" alt="Wetter App main screen" width="500">
+  <img src="assets/screenshots/second.png" alt="Wetter App second screen" width="500">
 </p>
 
 ## Features

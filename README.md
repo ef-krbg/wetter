@@ -67,7 +67,7 @@ wetter/
 
 ## Tech Stack
 
-HTML · CSS · JavaScript · [Bootstrap](https://getbootstrap.com/) · [OpenWeatherMap](https://openweathermap.org/) forecast data
+HTML · CSS · JavaScript · [Bootstrap](https://getbootstrap.com/) · [OpenWeatherMap](https://openweathermap.org/)
 
 ## License
 
